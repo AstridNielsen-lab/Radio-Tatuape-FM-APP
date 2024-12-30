@@ -1,0 +1,38 @@
+import React from 'react';
+import { Download } from 'lucide-react';
+
+const featuredGifs = [
+  {
+    id: '1',
+    url: 'https://images.unsplash.com/photo-1707343843437-caacff5cfa74',
+    title: 'Digital Wave',
+    category: 'Technology'
+  },
+  {
+    id: '2',
+    url: 'https://images.unsplash.com/photo-1707343843437-caacff5cfa74',
+    title: 'Nature Flow',
+    category: 'Nature'
+  },
+  // Add more sample gifs
+];
+
+export default function GifGrid() {
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-6">
+      {featuredGifs.map((gif) => (
+        <div key={gif.id} className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition">
+          <img src={gif.url} alt={gif.title} className="w-full h-48 object-cover" />
+          <div className="p-4">
+            <h3 className="text-lg font-semibold">{gif.title}</h3>
+            <p className="text-gray-600">{gif.category}</p>
+            <button className="mt-3 flex items-center space-x-2 bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 transition">
+              <Download size={20} />
+              <span>Download</span>
+            </button>
+          </div>
+        </div>
+      ))}
+    </div>
+  );
+}
