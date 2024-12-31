@@ -13,17 +13,17 @@ function App() {
       
       <main className="container mx-auto px-4 py-8">
         <section className="mb-12">
-          <h2 className="text-3xl font-bold mb-6">Featured GIFs</h2>
+          <h2 className="text-3xl font-bold mb-6">Parcerias</h2>
           <GifGrid />
         </section>
 
         <section id="categories" className="mb-12">
-          <h2 className="text-3xl font-bold mb-6">Categories</h2>
+          <h2 className="text-3xl font-bold mb-6">Serviços</h2>
           {/* Categories grid will be implemented here */}
         </section>
 
         <section id="resources" className="mb-12">
-          <h2 className="text-3xl font-bold mb-6">Resources</h2>
+          <h2 className="text-3xl font-bold mb-6">Contato</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h3 className="text-xl font-semibold mb-3">How to Use GIFs</h3>
