@@ -57,7 +57,7 @@ const featuredGifs = [
   },
   {
     id: '3',
-    url: 'https://i.gifer.com/LZ4n.mp4',
+    url: 'https://i.gifer.com/LZ4n.gif',
     title: 'Radio Waves',
     category: 'Technology',
     link: 'https://tecnologia.exemplo.com'
