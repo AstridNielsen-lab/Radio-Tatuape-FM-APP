@@ -28,7 +28,7 @@ const featuredGifs = [
     id: '4',
     url: 'https://cdn.dribbble.com/users/954572/screenshots/17357871/facebook-gif.gif',
     title: 'Facebook',
-    category: 'Classic',
+    category: 'Siga',
     link: 'https://www.facebook.com/tatuapefm' // Link fictício para "Vintage Radio"
   },
   {
