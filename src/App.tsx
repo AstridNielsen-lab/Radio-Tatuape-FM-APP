@@ -26,8 +26,8 @@ function App() {
           <h2 className="text-3xl font-bold mb-6">Contato</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold mb-3">How to Use GIFs</h3>
-              <p className="text-gray-600">Learn how to effectively use GIFs in your web projects.</p>
+              <h3 className="text-xl font-semibold mb-3">+5511970603441</h3>
+              <p className="text-gray-600">radiotatuapefm@gmail.com.</p>
             </div>
           </div>
         </section>
