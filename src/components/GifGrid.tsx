@@ -15,7 +15,7 @@ const featuredGifs = [
     url: 'https://help.grandchef.com.br/wp-content/uploads/2019/12/tenor-3.gif',
     title: 'Delivery 24 Horas',
     category: 'Bebidas',
-    link: 'https://www.exemplo.com/delivery' // Link fictício para "Delivery 24 Horas"
+    link: 'https://www.ifood.com.br/delivery/sao-paulo-sp/adega-radio-tatuape-fm-24-horas-vila-regente-feijo/29aa6191-cf23-4569-a8c3-d7bd66d877b5' // Link fictício para "Delivery 24 Horas"
   },
   {
     id: '3',
