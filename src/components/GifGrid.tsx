@@ -36,7 +36,7 @@ const featuredGifs = [
     url: 'https://images.unsplash.com/photo-1516280440614-37939bbacd81',
     title: 'DJ Setup',
     category: 'Equipment',
-    link: 'https://www.exemplo.com/dj-setup' // Link fictício para "DJ Setup"
+    link: 'https://www.magazinevoce.com.br/magazineradiotatuapefm/busca/dj+setup/?from=submit' // Link fictício para "DJ Setup"
   },
   {
     id: '6',
