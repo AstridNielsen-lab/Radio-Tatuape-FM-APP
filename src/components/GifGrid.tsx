@@ -43,7 +43,7 @@ const featuredGifs = [
     url: 'https://images.unsplash.com/photo-1571330735066-03aaa9429d89',
     title: 'Radio Tower',
     category: 'Infrastructure',
-    link: 'https://www.exemplo.com/radio-tower' // Link fictício para "Radio Tower"
+    link: 'https://likelook.wixsite.com/solutions' // Link fictício para "Radio Tower"
   },
   {
     id: '7',
