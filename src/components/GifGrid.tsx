@@ -58,20 +58,6 @@ const featuredGifs = [
     title: 'Discord',
     category: 'Technology',
     link: 'https://radiotatuapefm.wixsite.com/disparattechno' // Link fictício para "Sound Waves"
-  },
-  {
-    id: '9',
-    url: 'https://i.ytimg.com/vi/xCDX3awux0g/maxresdefault.jpg',
-    title: 'Radio Streaming',
-    category: ' MyTuner Radio',
-    link: 'https://mytuner-radio.com/pt/radio/radio-tatuape-fm-490545' // Link fictício para "Radio Station"
-  },
-  {
-    id: '10',
-    url: 'https://media.tenor.com/qERcAX4xHwMAAAAC/tower-broadcast.gif',
-    title: 'Broadcasting',
-    category: 'Live',
-    link: 'https://radiotatuapefm.radiostream321.com' // Link fictício para "Broadcasting"
   }
 ];
 
