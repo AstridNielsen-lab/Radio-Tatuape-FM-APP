@@ -29,7 +29,7 @@ const featuredGifs = [
     url: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04',
     title: 'Vintage Radio',
     category: 'Classic',
-    link: 'https://www.exemplo.com/vintage-radio' // Link fictício para "Vintage Radio"
+    link: 'https://www.facebook.com/tatuapefm' // Link fictício para "Vintage Radio"
   },
   {
     id: '5',
