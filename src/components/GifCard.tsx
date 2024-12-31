@@ -46,7 +46,7 @@ const featuredGifs = [
     url: 'https://github.com/AstridNielsen-lab/Radio-Tatuape-FM-APP/blob/index/card%20site%20radio%20tatuape%20fm.gif?raw=true',
     title: 'Anuncie',
     category: 'Parceiras',
-    link: 'https://parceiras.exemplo.com'
+    link: 'https://api.whatsapp.com/send?phone=5511970603441&text=Eu%20gostaria%20de%20Anunciar%20,%20podem%20me%20ajudar%20?%20Cheguei%20pelo%20anuncio%20do%20site%20.'
   },
   {
     id: '2',
