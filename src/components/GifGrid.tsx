@@ -61,9 +61,9 @@ const featuredGifs = [
   },
   {
     id: '9',
-    url: 'https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad',
-    title: 'Radio Station',
-    category: 'Studio',
+    url: 'https://i.ytimg.com/vi/xCDX3awux0g/maxresdefault.jpg',
+    title: 'Radio Streaming',
+    category: ' MyTuner Radio',
     link: 'https://mytuner-radio.com/pt/radio/radio-tatuape-fm-490545' // Link fictício para "Radio Station"
   },
   {
