@@ -86,7 +86,7 @@ function App() {
         Solicite um orçamento personalizado agora mesmo! Clique no botão abaixo e descreva sua demanda. Nossa equipe retornará em breve com a melhor solução para você.
       </p>
       <a 
-        href="/orcamentos" 
+        href="https://api.whatsapp.com/send?phone=5511970603441&text=Eu%20gostaria%20de%20Anunciar%20,%20podem%20me%20ajudar%20?%20Cheguei%20pelo%20anuncio%20do%20site%20." 
         className="mt-4 inline-block px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition">
         Solicitar Orçamento
       </a>
