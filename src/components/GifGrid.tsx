@@ -20,9 +20,9 @@ const featuredGifs = [
   {
     id: '3',
     url: 'https://i.gifer.com/LZ4n.gif',
-    title: 'Radio Waves',
+    title: 'Juliette Psicose',
     category: 'Technology',
-    link: 'https://www.exemplo.com/radio-waves' // Link fictício para "Radio Waves"
+    link: 'https://youtube.com/playlist?list=PLkm4QB9CKklpa5tej_S5yL-VM59O7mshE&si=3HVydZuknCSTxs-n' // Link fictício para "Radio Waves"
   },
   {
     id: '4',
