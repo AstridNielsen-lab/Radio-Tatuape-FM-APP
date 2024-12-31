@@ -33,7 +33,7 @@ const featuredGifs = [
   },
   {
     id: '5',
-    url: 'https://images.unsplash.com/photo-1516280440614-37939bbacd81',
+    url: 'https://media.tenor.com/images/05fb59c7e6ee2f4e3bd73fc4aacd76e8/tenor.gif',
     title: 'DJ Setup',
     category: 'Equipment',
     link: 'https://www.magazinevoce.com.br/magazineradiotatuapefm/busca/dj+setup/?from=submit' // Link fictício para "DJ Setup"
