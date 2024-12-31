@@ -10,9 +10,9 @@ const featuredGifs = [
   },
   {
     id: '2',
-    url: 'https://images.unsplash.com/photo-1487180144351-b8472da7d491',
-    title: 'Live Music',
-    category: 'Concert'
+    url: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS82k4fgAUfmI_OOXmjtI3mbDNC0AC6SJMY3huVADuIIijpApnpzON-KqSZKrz2jzFf8EQPbAV9xzANj0otWQ7fEAb2WaT-99Nl2h9JtSC-Bm8JhQnuITPMlWibdEE2PnwPHV7X_J_k6s/s1600/laura+cardoso+ifood.gif',
+    title: 'Delivery 24 Horas',
+    category: 'Bebidas'
   },
   {
     id: '3',
