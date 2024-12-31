@@ -60,15 +60,37 @@ function App() {
 </section>
 
 
-        <section id="resources" className="mb-12">
-          <h2 className="text-3xl font-bold mb-6">Contato</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <div className="bg-white p-6 rounded-lg shadow-md">
-              <h3 className="text-xl font-semibold mb-3">+5511970603441</h3>
-              <p className="text-gray-600">radiotatuapefm@gmail.com.</p>
-            </div>
-          </div>
-        </section>
+<section id="resources" className="mb-12">
+  <h2 className="text-3xl font-bold mb-6">Fale Conosco</h2>
+  <p className="text-gray-700 mb-6">
+    Entre em contato conosco e descubra como podemos atender às necessidades do seu negócio com soluções sob medida. Nossa equipe está pronta para responder suas dúvidas, oferecer orçamentos e garantir que você tenha o suporte necessário para alcançar seus objetivos.
+  </p>
+  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    <div className="bg-white p-6 rounded-lg shadow-md">
+      <h3 className="text-xl font-semibold mb-3">Telefone</h3>
+      <p className="text-gray-600">+55 11 97060-3441</p>
+    </div>
+    <div className="bg-white p-6 rounded-lg shadow-md">
+      <h3 className="text-xl font-semibold mb-3">E-mail</h3>
+      <p className="text-gray-600">radiotatuapefm@gmail.com</p>
+    </div>
+    <div className="bg-white p-6 rounded-lg shadow-md">
+      <h3 className="text-xl font-semibold mb-3">Orçamentos</h3>
+      <p className="text-gray-600">
+        Solicite um orçamento personalizado agora mesmo! Clique no botão abaixo e descreva sua demanda. Nossa equipe retornará em breve com a melhor solução para você.
+      </p>
+      <a 
+        href="/orcamentos" 
+        className="mt-4 inline-block px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition">
+        Solicitar Orçamento
+      </a>
+    </div>
+  </div>
+</section>
+
+
+
+        
       </main>
 
       <ChatBot isOpen={isChatOpen} onClose={() => setIsChatOpen(false)} />
