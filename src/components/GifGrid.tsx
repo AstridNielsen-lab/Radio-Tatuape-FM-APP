@@ -40,8 +40,8 @@ const featuredGifs = [
   },
   {
     id: '6',
-    url: 'https://images.unsplash.com/photo-1571330735066-03aaa9429d89',
-    title: 'Radio Tower',
+    url: 'https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif',
+    title: 'Like Look Solutions',
     category: 'Infrastructure',
     link: 'https://likelook.wixsite.com/solutions' // Link fictício para "Radio Tower"
   },
