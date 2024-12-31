@@ -64,7 +64,7 @@ const featuredGifs = [
     url: 'https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad',
     title: 'Radio Station',
     category: 'Studio',
-    link: 'https://www.bing.com/search?pglt=771&q=radio+tatuape+fm&cvid=a9d53e4d741c4b839d0c4811874a1436&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEEUYOzIGCAQQABhAMgYIBRAAGEAyBggGEEUYPDIGCAcQRRhBMgYICBBFGDzSAQgzNjg4ajBqMagCCLACAQ&form=EX0050&pc=EDGEBRV&filters=local_ypid:"YN7993x16616781707094725701"&shtp=GetUrl&shid=d613936e-e4a0-46f5-a543-adaf4eeaa343&shtk=UmFkaW8gVGF0dWFwZSBGbQ%3D%3D&shdk=UmFkaW8gVGF0dWFwZSBGTSDDqSBzdWEgZXN0YcOnw6NvIHBhcmEgbyBSb2NrIG5hY2lvbmFsIGUgSGVhdnkgTWV0YWwgYnJhc2lsZWlyby4gU2ludG9uaXplIHBhcmEgb3V2aXIgUm9jayDigKY%3D&shhk=EHKcdnRLtUaGp1cG8WKyFGUV5%2Fj0M2zvr4kEBcpQ6Ig%3D' // Link fictício para "Radio Station"
+    link: 'https://mytuner-radio.com/pt/radio/radio-tatuape-fm-490545' // Link fictício para "Radio Station"
   },
   {
     id: '10',
