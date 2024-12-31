@@ -10,7 +10,7 @@ const featuredGifs = [
   },
   {
     id: '2',
-    url: 'https://images.unsplash.com/photo-1707343843437-caacff5cfa74',
+    url: 'https://manualdousuario.net/wp-content/uploads/2021/06/parceiro-magalu.png',
     title: 'Nature Flow',
     category: 'Nature'
   },
