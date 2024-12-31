@@ -47,7 +47,7 @@ const featuredGifs = [
   },
   {
     id: '7',
-    url: 'https://images.unsplash.com/photo-1484755560615-a4c64e778a6c',
+    url: 'https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2020/07/5-carreiras-para-quem-gosta-de-falar-em-pc3bablico.gif?w=700',
     title: 'Microphone',
     category: 'Equipment',
     link: 'https://www.magazinevoce.com.br/magazineradiotatuapefm/busca/microfones%2Bprofissionais/?from=submit&filters=brand---akg' // Link fictício para "Microphone"
