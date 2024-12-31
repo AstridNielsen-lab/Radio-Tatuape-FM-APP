@@ -68,10 +68,10 @@ const featuredGifs = [
   },
   {
     id: '10',
-    url: 'https://radiotatuapefm.radiostream321.com',
+    url: 'https://media.tenor.com/qERcAX4xHwMAAAAC/tower-broadcast.gif',
     title: 'Broadcasting',
     category: 'Live',
-    link: 'https://www.exemplo.com/broadcasting' // Link fictício para "Broadcasting"
+    link: 'https://radiotatuapefm.radiostream321.com' // Link fictício para "Broadcasting"
   }
 ];
 
