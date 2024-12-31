@@ -26,8 +26,8 @@ const featuredGifs = [
   },
   {
     id: '4',
-    url: 'https://images.unsplash.com/photo-1598488035139-bdbb2231ce04',
-    title: 'Vintage Radio',
+    url: 'https://cdn.dribbble.com/users/954572/screenshots/17357871/facebook-gif.gif',
+    title: 'Facebook',
     category: 'Classic',
     link: 'https://www.facebook.com/tatuapefm' // Link fictício para "Vintage Radio"
   },
