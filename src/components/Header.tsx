@@ -12,7 +12,7 @@ export default function Header({ onChatClick }: HeaderProps) {
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <Zap size={32} className="text-yellow-300" />
-            <h1 className="text-2xl font-bold">Bolt.new</h1>
+            <h1 className="text-2xl font-bold">Radio Tatuape FM</h1>
           </div>
           
           <div className="flex-1 max-w-2xl mx-8">
