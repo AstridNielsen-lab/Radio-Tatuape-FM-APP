@@ -54,10 +54,10 @@ const featuredGifs = [
   },
   {
     id: '8',
-    url: 'https://images.unsplash.com/photo-1495305379050-64540d6ee95d',
-    title: 'Sound Waves',
+    url: 'https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952ppqplxk20c4dtbqku7v5bm9rk2gia8btesilqp8j&ep=v1_gifs_search&rid=giphy.gif&ct=g',
+    title: 'Discord',
     category: 'Technology',
-    link: 'https://www.exemplo.com/sound-waves' // Link fictício para "Sound Waves"
+    link: 'https://radiotatuapefm.wixsite.com/disparattechno' // Link fictício para "Sound Waves"
   },
   {
     id: '9',
