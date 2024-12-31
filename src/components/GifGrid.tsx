@@ -4,9 +4,9 @@ import { Download } from 'lucide-react';
 const featuredGifs = [
   {
     id: '1',
-    url: 'https://images.unsplash.com/photo-1707343843437-caacff5cfa74',
-    title: 'Digital Wave',
-    category: 'Technology'
+    url: 'https://www.meupositivo.com.br/doseujeito/wp-content/uploads/2022/02/scooter_ride_v1_2.gif',
+    title: 'Adega 24 Horas',
+    category: 'Delivery'
   },
   {
     id: '2',
