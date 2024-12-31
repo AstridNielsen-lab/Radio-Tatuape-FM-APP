@@ -50,7 +50,7 @@ const featuredGifs = [
     url: 'https://images.unsplash.com/photo-1484755560615-a4c64e778a6c',
     title: 'Microphone',
     category: 'Equipment',
-    link: 'https://www.exemplo.com/microphone' // Link fictício para "Microphone"
+    link: 'https://www.magazinevoce.com.br/magazineradiotatuapefm/busca/microfones%2Bprofissionais/?from=submit&filters=brand---akg' // Link fictício para "Microphone"
   },
   {
     id: '8',
