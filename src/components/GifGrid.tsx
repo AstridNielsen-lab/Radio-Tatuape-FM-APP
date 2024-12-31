@@ -68,7 +68,7 @@ const featuredGifs = [
   },
   {
     id: '10',
-    url: 'https://images.unsplash.com/photo-1546708770-589dab7b22c7',
+    url: 'https://radiotatuapefm.radiostream321.com',
     title: 'Broadcasting',
     category: 'Live',
     link: 'https://www.exemplo.com/broadcasting' // Link fictício para "Broadcasting"
