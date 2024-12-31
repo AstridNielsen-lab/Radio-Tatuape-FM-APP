@@ -19,7 +19,7 @@ const featuredGifs = [
   },
   {
     id: '3',
-    url: 'https://images.unsplash.com/photo-1614613535308-eb5fbd3d2c17',
+    url: 'https://i.gifer.com/LZ4n.gif',
     title: 'Radio Waves',
     category: 'Technology',
     link: 'https://www.exemplo.com/radio-waves' // Link fictício para "Radio Waves"
