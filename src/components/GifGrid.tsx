@@ -11,8 +11,8 @@ const featuredGifs = [
   {
     id: '2',
     url: 'https://manualdousuario.net/wp-content/uploads/2021/06/parceiro-magalu.png',
-    title: 'Nature Flow',
-    category: 'Nature'
+    title: 'Parceiro Magalu',
+    category: 'Compras'
   },
   // Add more sample gifs
 ];
