@@ -68,11 +68,17 @@ function App() {
   <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
     <div className="bg-white p-6 rounded-lg shadow-md">
       <h3 className="text-xl font-semibold mb-3">Telefone</h3>
-      <p className="text-gray-600">+55 11 97060-3441</p>
+      <p className="text-gray-600">
+        Ligue para nós e fale diretamente com um de nossos especialistas. Estamos disponíveis para tirar suas dúvidas e auxiliar em suas solicitações.
+      </p>
+      <p className="text-gray-600 font-bold">+55 11 97060-3441</p>
     </div>
     <div className="bg-white p-6 rounded-lg shadow-md">
       <h3 className="text-xl font-semibold mb-3">E-mail</h3>
-      <p className="text-gray-600">radiotatuapefm@gmail.com</p>
+      <p className="text-gray-600">
+        Envie-nos um e-mail com sua solicitação, dúvida ou projeto. Responderemos o mais rápido possível para ajudá-lo a alcançar seus objetivos.
+      </p>
+      <p className="text-gray-600 font-bold">radiotatuapefm@gmail.com</p>
     </div>
     <div className="bg-white p-6 rounded-lg shadow-md">
       <h3 className="text-xl font-semibold mb-3">Orçamentos</h3>
@@ -80,7 +86,7 @@ function App() {
         Solicite um orçamento personalizado agora mesmo! Clique no botão abaixo e descreva sua demanda. Nossa equipe retornará em breve com a melhor solução para você.
       </p>
       <a 
-        href="https://api.whatsapp.com/send?phone=5511970603441&text=Eu%20gostaria%20de%20Anunciar%20,%20podem%20me%20ajudar%20?%20Cheguei%20pelo%20anuncio%20do%20site%20." 
+        href="/orcamentos" 
         className="mt-4 inline-block px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 transition">
         Solicitar Orçamento
       </a>
