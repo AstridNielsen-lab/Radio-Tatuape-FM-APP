@@ -5,8 +5,8 @@ const featuredGifs = [
   {
     id: '1',
     url: 'https://github.com/AstridNielsen-lab/Radio-Tatuape-FM-APP/blob/index/card%20site%20radio%20tatuape%20fm.gif?raw=true',
-    title: 'Music Studio',
-    category: 'Studio'
+    title: 'Anuncie',
+    category: 'Parceiras'
   },
   {
     id: '2',
