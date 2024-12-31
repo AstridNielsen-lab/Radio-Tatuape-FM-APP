@@ -1,5 +1,5 @@
 import React from 'react';
-import { Radio } from 'lucide-react';
+import { Radio, Play } from 'lucide-react';
 
 interface GifCardProps {
   title: string;
@@ -8,8 +8,14 @@ interface GifCardProps {
 }
 
 export function GifCard({ title, imageUrl, category }: GifCardProps) {
+  // Function to open the main website
   const handleVisitRadio = () => {
     window.open('https://www.radiotatuapefm.com.br/', '_blank');
+  };
+
+  // Function to open the stream link
+  const handlePlayStream = () => {
+    window.open('https://radiotatuapefm.radiostream321.com', '_blank');
   };
 
   return (
@@ -18,13 +24,24 @@ export function GifCard({ title, imageUrl, category }: GifCardProps) {
       <div className="p-4">
         <h3 className="text-lg font-semibold">{title}</h3>
         <p className="text-gray-600">{category}</p>
-        <button 
-          onClick={handleVisitRadio}
-          className="mt-3 flex items-center space-x-2 bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 transition"
-        >
-          <Radio size={20} />
-          <span>Radio Tatuapé FM</span>
-        </button>
+        <div className="mt-3 space-y-2">
+          <button 
+            onClick={title.includes('Live') || title.includes('Studio') ? handlePlayStream : handleVisitRadio}
+            className="w-full flex items-center justify-center space-x-2 bg-purple-600 text-white px-4 py-2 rounded-lg hover:bg-purple-700 transition"
+          >
+            {title.includes('Live') || title.includes('Studio') ? (
+              <>
+                <Play size={20} />
+                <span>Play Stream</span>
+              </>
+            ) : (
+              <>
+                <Radio size={20} />
+                <span>Radio Tatuapé FM</span>
+              </>
+            )}
+          </button>
+        </div>
       </div>
     </div>
   );
