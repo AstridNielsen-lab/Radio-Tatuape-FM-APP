@@ -38,7 +38,7 @@ export default function Footer() {
 
           <div>
             <h3 className="text-lg font-semibold mb-4">Follow Us</h3>
-            <a href="https://github.com" className="text-gray-400 hover:text-white">
+            <a href="https://github.com/AstridNielsen-lab" className="text-gray-400 hover:text-white">
               <Github size={24} />
             </a>
           </div>
